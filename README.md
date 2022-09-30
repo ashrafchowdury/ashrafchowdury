@@ -9,13 +9,16 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 
+<br />
+<br />
+
 
 
 <h2 align="center">MY ECOSYSTEM ❄</h2>
 
 <p align="center">
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" space="10px"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript" /> 
   </a>&nbsp;
@@ -30,7 +33,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
       alt="css3"/>&nbsp;
   </a>
   
-  <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://reactjs.org/" target="_blank" > 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/>&nbsp;
   </a>
@@ -71,7 +74,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
   
  <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
+      alt="git" />
   </a>&nbsp;
   
  <a href="https://github.com/ELanza-48" target="_blank">
@@ -86,6 +89,8 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 
+<br />
+<br />
 
 
 <h2 align="center">CONNECT WITH ME 💬</h2>
@@ -102,8 +107,13 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 
+<br />
+<br />
+
+
+
 <div align="center">
-<h3 align="center" style="margin: 5px 10px;">GITHUB STATES:</h3> 
+<h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
 
 <p align="center">
   <a href="https://github.com/ashrafchowdury">
