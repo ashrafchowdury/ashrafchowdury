@@ -96,7 +96,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
   </a>
 </p>
 
-----
+--
 
 <h3 align="center">Connect With Me 💬</h3>
 <div align="center">
@@ -113,11 +113,22 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h3 align="center" style="margin: 5px 10px;">Github stats:</h3> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+<div display="flex">
+
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ashrafchowdury)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/ashrafchowdury)
 </div>
+
+</div
+
+
+<br/>
+
+[![Ashraf Chowdury's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ashrafchowdury&hide_border=true&bg_color=151515&color=fff&line=68ACFE&point=68ACFE)](https://github.com/ashrafchowdury)
 
 
 <p align="center">
@@ -125,8 +136,4 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
     alt="example" />
 </p>
 
-
-<br/>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
 
