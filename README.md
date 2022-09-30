@@ -1,7 +1,9 @@
 ![Logo](https://firebasestorage.googleapis.com/v0/b/store-images-ad405.appspot.com/o/Group%20189%20(1).png?alt=media&token=da2c74c2-cb34-4bb3-b5c5-436424eec7df)
 
-<h1 align="center">Hi Ashraf Chowdury</h1>
-<h3 align="center">I'm A Front-End Developer</h3>
+<h1 align="center">Hi Ashraf Chowdury. <br />
+<h3 align="center">I'm a Front-End Developer</h3>
+</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafchowdury&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafchowdury" /> </p>
 
