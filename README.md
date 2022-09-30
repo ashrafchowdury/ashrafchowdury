@@ -1,8 +1,7 @@
 ![Logo](https://pbs.twimg.com/profile_banners/1355130501124685824/1661927046/1500x500)
 
 <h1 align="center">Hi Ashraf Chowdury. 🧑</h1>
-<h2 align="center">I’m  a Front-End Developer. 🔥</h2>
-
+<h3 align="center">I’m  a Front-End Developer. 🔥</h3>
 
 <p align="center">
 I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves building full-stack applications & learning new technologies. I've also helped people develop their web apps 🍎. I've been working with React.js for over a year now. My goal is to be able to build applications that are fast, responsive, and fun to use.
@@ -10,13 +9,10 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 
----
-
-
 <h2 align="center">My Ecossystem ❄</h2>
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -30,11 +26,6 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-</p>
-
-
-<h3 align="center">Frontend</h3>
-<p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -47,6 +38,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
       alt="webpack"/>
   </a>
 </p>
+
 
 
 <h3 align="center">Backend</h3>
@@ -63,6 +55,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 
 <h3 align="center">Database</h3>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
@@ -105,7 +98,7 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 ----
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="center">Connect With Me 💬</h3>
 <div align="center">
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -118,7 +111,6 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 </div>
 
 
-----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
@@ -127,17 +119,12 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
 
 <br/>
 
