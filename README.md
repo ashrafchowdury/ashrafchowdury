@@ -95,12 +95,17 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 <h2 align="center">CONNECT WITH ME 💬</h2>
 <div align="center">
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/ashraf-chowdury-297301206/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>&nbsp;
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="https://twitter.com/Ashraf_365" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-    </a>
+    </a>&nbsp;
+    <a href="https://ashrafchowdury09.hashnode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-358CF8.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/>
+    </a>&nbsp;
+ 
+
    
 
 </div>
