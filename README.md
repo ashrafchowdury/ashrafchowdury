@@ -1,4 +1,4 @@
-![Logo](https://pbs.twimg.com/profile_banners/1355130501124685824/1661927046/1500x500)
+![Logo](https://firebasestorage.googleapis.com/v0/b/store-images-ad405.appspot.com/o/Group%20189%20(1).png?alt=media&token=da2c74c2-cb34-4bb3-b5c5-436424eec7df)
 
 <h1 align="center">Hi Ashraf Chowdury. 🧑</h1>
 <h3 align="center">I’m  a Front-End Developer. 🔥</h3>
@@ -11,10 +11,9 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
 
 <h2 align="center">My Ecossystem ❄</h2>
 
-
-<h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" display="inline-block" margin="10px"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
@@ -33,72 +32,56 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
+  
+   <a href="https://github.com/ashrafchowdury/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Next.js-313131.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="nextjs"/> 
+  </a> 
+  
+  <a href="https://github.com/ashrafchowdury/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" alt="reactQuery"/> 
+  </a> 
+  
+
+   <a href="https://formik.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Formik-2489CA.svg?style=for-the-badge&logo=formik&logoColor=white" alt="formik"/> 
+  </a> 
+  
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/TailwindCSS-0ED7B5.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/> 
+  </a> 
+  
+  <a href="https://github.com/ashrafchowdury/" target="_blank"> 
+    <img src="https://img.shields.io/badge/SCSS-CF649A.svg?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/> 
+  </a> 
+  
+ <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
-</p>
-
-
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
+  
+ <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-</p>
-
-
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a>
-    <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-</p>
-
-
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a>  
-</p>
-
-
-<h3 align="center">Version Control</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
+  
+ <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  
+ <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  
+ <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   
 </p>
 
 
-<h3 align="center">Preferred Code Editor</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-</p>
 
---
 
-<h3 align="center">Connect With Me 💬</h3>
+<h2 align="center">Connect With Me 💬</h2>
 <div align="center">
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
