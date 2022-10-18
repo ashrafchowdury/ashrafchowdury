@@ -66,7 +66,9 @@ I've been coding for nearly 2.5 years. I'm a developer 🕵️ who loves buildin
  <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>&nbsp;
-  
+   <a href="https://cypress.io/" target="_blank">
+    <img src="https://img.shields.io/badge/cypress-2F2F2F.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  </a>&nbsp;
  <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
