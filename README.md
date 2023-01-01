@@ -1,10 +1,10 @@
-![Logo](https://firebasestorage.googleapis.com/v0/b/store-images-ad405.appspot.com/o/Group%20189%20(1).png?alt=media&token=da2c74c2-cb34-4bb3-b5c5-436424eec7df)
+![Logo](https://user-images.githubusercontent.com/87828904/210168151-ff080cf5-5cd1-49ea-a049-579d09aa5b82.png)
 
-<h1 align="center">Hi, Ashraf Chowdury 👋</h1>
+<h1 align="center">Hi, I'm Ashraf Chowdury 👋</h1>
 <h3 align="center">I’m a Front-End Developer 💻</h3>
 
 <p align="center">
-I've been coding for nearly 2.5 years. I'm a developer who loves building full-stack applications & learning new technologies. I've also helped people develop their web apps. I've been working with React.js for over a year now. My goal is to be able to build applications that are fast, responsive, and fun to use.
+I've been coding for nearly 2.5 years. I'm a developer who loves building front-end applications & learning new technologies. I've also helped people develop their web apps. I've been working with React.js for over a year now. My goal is to be able to build applications that are fast, responsive, and fun to use.
 </p>
 
 
