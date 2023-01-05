@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/87828904/210168151-ff080cf5-5cd1-49ea-a049-579d09aa5b82.png)
+![Logo](https://github.com/ashrafchowdury/readme-images/blob/main/17e58cf9-789f-4b5e-bc9e-b685cec09c93.png)
 
 <h1 align="center">Hi, I'm Ashraf Chowdury 👋</h1>
 <h3 align="center">I’m a Front-End Developer 💻</h3>
