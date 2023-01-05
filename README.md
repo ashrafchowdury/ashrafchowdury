@@ -72,9 +72,6 @@ I've been coding for nearly 2.5 years. I'm a developer who loves building front-
 </div
 
 
-<br/>
-
-[![Ashraf Chowdury's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ashrafchowdury&hide_border=true&bg_color=151515&color=fff&line=68ACFE&point=68ACFE)](https://github.com/ashrafchowdury)
 
 
 <p align="center">
