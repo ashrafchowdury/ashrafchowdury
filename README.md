@@ -72,7 +72,8 @@ I've been coding for nearly 2.5 years. I'm a developer who loves building front-
 </div
 
 
-
+<br />
+ 
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
