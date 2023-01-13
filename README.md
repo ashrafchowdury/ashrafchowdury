@@ -45,10 +45,11 @@ I've been coding for nearly 2.5 years. I'm a developer who loves building front-
 <h2 align="center">CONNECT WITH ME 💬</h2>
 <div align="center">
     <a  href="https://www.linkedin.com/in/ashraf-chowdury-297301206/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" width="50px" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="In" width="50px" />
+      
     </a>&nbsp;
     <a href="https://twitter.com/Ashraf_365" target="_blank">
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="In" width="50px" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" width="50px" />
     </a>&nbsp;
     <a href="https://ashrafchowdury09.hashnode.dev/" target="_blank">
      <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/hashnode.svg" alt="Blog" width="50px" />
