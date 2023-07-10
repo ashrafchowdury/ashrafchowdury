@@ -1,67 +1,46 @@
-![Logo](https://github.com/ashrafchowdury/readme-images/blob/main/17e58cf9-789f-4b5e-bc9e-b685cec09c93.png)
-
-<h1 align="center">Hi, I'm Ashraf Chowdury 👋</h1>
-<h3 align="center">I’m a Front-End Developer 💻</h3>
-
 <p align="center">
-I've been coding for nearly 2.5 years. I'm a developer who loves building front-end applications & learning new technologies. I've also helped people develop their web apps. I've been working with React.js for over a year now. My goal is to be able to build applications that are fast, responsive, and fun to use.
+ 
+![image](https://media.licdn.com/dms/image/D5616AQHW0gJc9SvUrw/profile-displaybackgroundimage-shrink_350_1400/0/1688962536453?e=1694649600&v=beta&t=vclTqEmFM3UOrGsqPzZCdRY-R9lVnBwaSDNtONFVOPs)
+ 
 </p>
 
-
-<br />
-
-
-<h2 align="center">MY ECOSYSTEM ❄</h2>
-
-<div align="center">
-
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Nextjs" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SCSS" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="50px" />&nbsp;
- <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/query13.svg" alt="React-Query" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50px" />&nbsp;
- <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/Cypress.svg" alt="Cypress" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="50px" />&nbsp;
+<h1 align="center">Ashraf Chowdury</h1>
+<p align="center">I'm Achraf Chowdury, a front-end developer with a passion for building interfaces. While my background may not be traditional in this field, I believe that experience can add value to the art of front-end development.<p>
  
-</div>
-
-
 
 <br />
-<br />
 
-
-<h2 align="center">CONNECT WITH ME 💬</h2>
-<div align="center">
-    <a  href="https://www.linkedin.com/in/ashraf-chowdury-297301206/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" width="50px" />
-    </a>&nbsp;
-    <a href="https://twitter.com/Ashraf_365" target="_blank">
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="In" width="50px" />
-    </a>&nbsp;
-    <a href="https://ashrafchowdury09.hashnode.dev/" target="_blank">
-     <img src="https://github.com/ashrafchowdury/readme-images/blob/main/icons/hashnode.svg" alt="Blog" width="50px" />
-    </a>&nbsp;
+<h2 align="center">My Recent Coding Projects</h2>
+<p align="center">Projects I had recently worked on</p>
  
-</div>
+<p align="center">
+ 
+ <a target="_blank" href="https://poststrome.vercel.app"><img src="https://cloud.appwrite.io/v1/storage/buckets/647f538eb065d9f2b8d8/files/64aa7e2857a4f3309baf/view?project=645dc450a76ad06dddca&mode=admin" width="49%"  />
+</a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://dotemd.vercel.app"><img src="https://cloud.appwrite.io/v1/storage/buckets/647f538eb065d9f2b8d8/files/64abcc33b1081e2149c5/view?project=645dc450a76ad06dddca&amp;mode=admin" width="49%" ></a>
 
+</p>
+ 
 
-<br />
+<h2 align="center">My Ecosystem</h2>
+<p align="center">I used these technologies to build my projects</p>
+<p align="center">
+ 
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,scss,jest,firebase,appwrite,supabase,nodejs,git,github,vercel,figma,vscode&perline=9" />
 
+</p>
 
-<div align="center">
-<h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
+ <br />
+
+<h2 align="center">Active On</h2>
+<p align="center">I'm available on all of these platforms, so feel free to contact me however is most convenient for you.</p>
+<p align="center"><a target="_blank" href="https://twitter.com/ashraf_chowdury"><img src="https://skillicons.dev/icons?i=twitter" ></a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/ashrafchowdury/"><img  src="https://skillicons.dev/icons?i=linkedin"></a>
+<p>
+
+ <br />
+
+<h2 align="center">Github Status</h2>
+
 
 <p align="center">
   <a href="https://github.com/ashrafchowdury">
