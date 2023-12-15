@@ -1,62 +1,39 @@
-<p align="center">
- 
-![image](https://media.licdn.com/dms/image/D5616AQHW0gJc9SvUrw/profile-displaybackgroundimage-shrink_350_1400/0/1688962536453?e=1694649600&v=beta&t=vclTqEmFM3UOrGsqPzZCdRY-R9lVnBwaSDNtONFVOPs)
- 
-</p>
+**Easy Navigation:** [Recent Works](https://github.com/ashrafchowdury/ashrafchowdury#my-recent-works) / [My Ecosystem](https://github.com/ashrafchowdury/ashrafchowdury#my-ecosystem) / [Conteact Me](https://github.com/ashrafchowdury/ashrafchowdury#active-on) / [GitHub States](https://github.com/ashrafchowdury/ashrafchowdury#github-status)
 
-<h1 align="center">Ashraf Chowdury</h1>
-<p align="center">I'm Achraf Chowdury, a front-end developer with a passion for building interfaces. While my background may not be traditional in this field, I believe that experience can add value to the art of front-end development.<p>
- 
+![image](/assets/ashrafchowdury_github_profile.png)
 
-<br />
+---
 
-<h2 align="center">My Recent Coding Projects</h2>
-<p align="center">Projects I had recently worked on</p>
- 
-<p align="center">
- 
- <a target="_blank" href="https://poststrome.vercel.app"><img src="https://cloud.appwrite.io/v1/storage/buckets/647f538eb065d9f2b8d8/files/64aa7e2857a4f3309baf/view?project=645dc450a76ad06dddca&mode=admin" width="49%"  />
-</a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://dotemd.vercel.app"><img src="https://cloud.appwrite.io/v1/storage/buckets/647f538eb065d9f2b8d8/files/64abcc33b1081e2149c5/view?project=645dc450a76ad06dddca&amp;mode=admin" width="49%" ></a>
+I’m Ashraf Chowdhury mastering the art of Front-end development. I've been writing code for 2 years & I've created more than 5 applications that have been used by many users. I’m actively growing myself by creating innovative projects and contributing to the open-source.
 
-</p>
- 
+- 🎓 I'm currently working towards an Front-end developer.
+- 📖 I'm on track with learning more about [Back-end Development](https://github.com/ashrafchowdury/become-fullstack).
+- 🤝 Actively contributing on [Papermark]()
+- 📢 I write articles on Hashnode and like to cook stuff for myself in my free time.
+- 👉 And more...
 
-<h2 align="center">My Ecosystem</h2>
-<p align="center">I used these technologies to build my projects</p>
-<p align="center">
- 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,scss,jest,firebase,appwrite,supabase,nodejs,git,github,vercel,figma,vscode&perline=9" />
+---
 
-</p>
+### My Recent Works
 
- <br />
+<a href="https://github.com/ashrafchowdury/talknova" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafchowdury&repo=talknova&theme=holi" width="49%" />&nbsp;
+</a><a href="https://github.com/ashrafchowdury/talknova" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafchowdury&repo=dotemd&theme=holi" width="49%" />
+</a>
 
-<h2 align="center">Active On</h2>
-<p align="center">I'm available on all of these platforms, so feel free to contact me however is most convenient for you.</p>
-<p align="center"><a target="_blank" href="https://twitter.com/ashraf_chowdury"><img src="https://skillicons.dev/icons?i=twitter" ></a>&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/ashrafchowdury/"><img  src="https://skillicons.dev/icons?i=linkedin"></a>
-<p>
+### Active On
 
- <br />
+Feel free to contact me in this platforms.
 
-<h2 align="center">Github Status</h2>
+<a href="https://twitter.com/ashrafchowdury"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=x&logoColor=black" alt="Twitter" /></a>&nbsp;
+<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Linkedin-2962AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hashnode" /></a>&nbsp;<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Hashnode" /></a>&nbsp;
 
+---
 
-<p align="center">
-  <a href="https://github.com/ashrafchowdury">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ashrafchowdury&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafchowdury&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
-  </a>
-</p>
-</div
+### Github Status
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashrafchowdury&show_icons=true&theme=holi&hide_border=true&icon_color=68ACFE" />&nbsp;<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafchowdury&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
 
-<br />
- 
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-
+![Gifs](https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg)
