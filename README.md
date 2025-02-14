@@ -8,7 +8,7 @@
 
 I’m Ashraf Chowdhury mastering the art of Front-end development. I've been writing code for 2 years & I've created more than 5 applications that have been used by many users. I’m actively growing myself by creating innovative projects and contributing to the open-source.
 
-- 🎓 I'm currently working [agenta.ai](https://github.com/Agenta-AI/agenta) as a frontend intern.
+- 🎓 I'm currently working [agenta.ai](https://github.com/Agenta-AI/agenta) as a frontend engineer.
 - 📖 I'm on track with learning more about [Back-end Development](https://github.com/ashrafchowdury/become-fullstack).
 - 🤝 I'm actively contributing to OS projects like > [Papermark](https://github.com/ashrafchowdury/papermark) [Documenso](https://github.com/documenso/documenso) [Agenta-AI](https://github.com/Agenta-AI/agenta)
 - 📢 I write articles on [Hashnode](https://ashrafchowdury09.hashnode.dev/) and like to cook stuff for myself in my free time.
